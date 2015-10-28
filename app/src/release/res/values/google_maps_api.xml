@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B8:E6:BE:B3:50:75:ED:B5:8F:CA:00:B2:44:42:70:4F:97:43:58:6D%3Bcom.example.zelin.geofencing_test
+
+    You can also add your credentials to an existing key, using this line:
+    B8:E6:BE:B3:50:75:ED:B5:8F:CA:00:B2:44:42:70:4F:97:43:58:6D;com.example.zelin.geofencing_test
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        YOUR_KEY_HERE
+    </string>
+</resources>
